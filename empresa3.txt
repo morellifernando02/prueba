@@ -4,6 +4,6 @@ prueba 3 esto en el brunch Mi prueba Ok !!!
 <<<<<<< HEAD
 prueba 4 ahora si ok yes :-) bien
 =======
-prueba 4 ahora si
+prueba 4 ahora si 
 >>>>>>> b95fce3 (ok esta es mi valido)
 prueba del pool sssssssssssssssssss
